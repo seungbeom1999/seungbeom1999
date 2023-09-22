@@ -9,7 +9,7 @@
   <a href="khhds00@naver.com" target="_blank"><img src="https://img.shields.io/badge/khhds00@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-## Skills
+## 🔧 Skills
 
 💻 Language
 
